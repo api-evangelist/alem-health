@@ -46,7 +46,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 tags:
 - Company
 - Teleradiology
@@ -62,6 +62,8 @@ tags:
 - Diagnostics
 apis: []
 common:
+- url: https://alemhealth.com/blog/
+  type: Blog
 - type: Website
   url: https://alemhealth.com
   name: AlemHealth Website
