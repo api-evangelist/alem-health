@@ -64,6 +64,75 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alem Health is a company surfaced as a portfolio company of dcvc and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+AlemHealth is an AI-powered teleradiology and medical imaging platform that unifies image acquisition, diagnostic reading, reporting, and analytics into a single cloud system used by 500+ radiologists across 20+ countries. Its product suite includes Connect PACS (cloud image archiving with an FDA-approved diagnostic viewer), FrontDesk RIS scheduling, a referring-physician Referral Portal, a patient QR-access app, and the AlemBox gateway and AlemHub reporting-server hardware. AI features cover automated report drafting, quality-assurance scoring, laterality-mismatch detection, and ICD-10 tagging, metered via an AI-tokens model. For providers, AlemHealth supports bi-directional HL7, FHIR, and API integrations plus standard DICOM connectivity to sync orders, patient demographics, and finalized reports with existing EMR/EHR and PACS systems.
 
-Backed by: dcvc
+**Areas:** Company · Teleradiology · Medical Imaging · Radiology · Healthcare · Health IT · DICOM · HL7 · FHIR · PACS · Artificial Intelligence · Diagnostics
+
+## Alem Health on APIs.io
+
+Everything profiled for Alem Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alem-health/](https://apis.io/providers/alem-health/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alemhealth.com)
+- [Pricing](https://alem.health/#pricing)
+- [Sign up](https://signup.alem.health)
+- [Support](https://support.alemhealth.com/hc/en-us)
+- [Blog](https://alemhealth.com/blog/)
+- [Terms of service](https://alem.health/terms-of-service)
+- [Privacy policy](https://alem.health/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 8.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 22.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 2.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alem-health/](https://apis.io/providers/alem-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alem Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alem-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
